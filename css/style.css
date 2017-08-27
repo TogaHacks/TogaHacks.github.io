@@ -113,6 +113,11 @@ footer img   {
   font-size: 50px;
   text-shadow: 2px 2px #000000;
 }
+.hero-content p.newFont {
+  font-size: 45px;
+  text-shadow: 2.5px 2.5px #000000;
+    color: #DD3E3E;
+}
 
 /* basic site sections */
 .site-section   {
