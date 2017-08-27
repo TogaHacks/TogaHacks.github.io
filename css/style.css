@@ -103,7 +103,8 @@ footer img   {
 }
 .hero-content a    {
   display: inline-block;
-  color: #c42323;
+  color: #FFFFFF;
+  background-color: #c42323;
   border: 5px solid #FFF;
   border-radius: 10px;
   padding: 15px 30px;
